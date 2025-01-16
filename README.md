@@ -1,50 +1,31 @@
-# Welcome to your Expo app 👋
+# 🌐 UnityBridge - Inclusive Mobile Chat Application  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+UnityBridge is a mobile chat application designed to empower individuals with disabilities in Sri Lanka. The app ensures seamless communication through real-time messaging, sign language detection, speech-to-text, and text-to-speech functionalities. It is tailored to promote inclusivity and accessibility for all users.  
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features  
+- 📱 **Real-Time Messaging**: Enables users to communicate instantly.  
+- ✋ **Sign Language Detection**: Translates sign language into text using OpenCV and MediaPipe.  
+- 🎙️ **Speech-to-Text and Text-to-Speech**: Facilitates communication for users with visual or auditory impairments.  
+- 🖼️ **User-Friendly Interface**: Designed with accessibility and inclusivity at its core.  
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🛠️ Tech Stack  
+### Frontend  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)  
 
-   ```bash
-    npx expo start
-   ```
+### Backend  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)  
 
-In the output, you'll find options to open the app in a
+### Additional Technologies  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)  
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-009688?style=flat-square)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square)  
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?style=flat-square)  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
